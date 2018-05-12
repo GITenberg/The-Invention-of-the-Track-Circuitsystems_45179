@@ -1,0 +1,29 @@
+_repo: The-Invention-of-the-Track-Circuitsystems_45179
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45179-h/images/cover.jpg
+creator:
+  author:
+    agent_name: American Railway Association
+    alias: Association, American Railway
+    gutenberg_agent_id: '43136'
+    url: http://www.gutenberg.org/2009/agents/43136
+description: ''
+gutenberg_issued: '2014-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45179'
+  lccn: '22025821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robinson, William, 1840-1921'
+- !lcsh 'Railroads -- Signaling -- Block system'
+- !lcc 'TF'
+title: "The Invention of the Track Circuit\r\nThe history of Dr. William Robinson's\
+  \ invention of the track circuit, the fundamental unit which made possible our present\
+  \ automatic block signaling and interlocking systems"
+url: http://www.gutenberg.org/ebooks/45179
